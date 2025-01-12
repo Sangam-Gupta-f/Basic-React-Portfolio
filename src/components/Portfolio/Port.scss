@@ -1,0 +1,19 @@
+.imgbox{
+    height: 300px;
+    width: 400px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+    .imgname{
+        //background-color: pink;
+    }
+}
+
+.map{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    //justify-content: space-between;
+}

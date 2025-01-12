@@ -1,0 +1,30 @@
+img{
+
+    border-radius: 50%;
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+}
+.hero{
+   // background-color: aliceblue;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    
+}
+.h{
+  //  background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   // align-content: center;
+    justify-content: center;
+    height: 80vh;
+}
+.myname{
+    font-size: 30px;
+    height: 100px;
+}
